@@ -1,1 +1,2 @@
 This is my new git demo
+My second commit for the git demo
